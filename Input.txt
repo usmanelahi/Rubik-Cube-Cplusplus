@@ -1,0 +1,18 @@
+White : b b b b y y y g w
+        y o r b b o y r w  
+
+Red : y g g o r w r r r
+      y w y r g g r y r
+
+Orange : g r y o b w o b o
+         g w w b y g g b o
+
+Blue : w b o g w w o o b
+       w o b w b g g o b
+
+Green : w r g o r g o r g
+        w r y y o b w r g
+
+Yellow : y r g y w b y w y
+         o o w r g b o r y 
+
